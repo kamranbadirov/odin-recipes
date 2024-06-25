@@ -36,3 +36,8 @@ a:hover {
   background-color: #3498db;
   color: #fff;
 }
+img {
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;
+}
